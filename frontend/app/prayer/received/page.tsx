@@ -32,7 +32,7 @@ export default function AcknowledgedPage() {
                 <p className="opacity-70 font-pop2 ml-2 mt-5 mb-5">
                   Prayer request submitted...
                 </p>
-                <h1 className="text-8xl font-pop1 leading-loose ">
+                <h1 className="text-4xl font-pop1 leading-relaxed ">
                   WE ARE <span className="text-purple-500">PRAYING</span> FOR
                   YOU
                 </h1>
