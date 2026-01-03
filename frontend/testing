@@ -1,0 +1,6 @@
+ <div className="mt-8">
+            <h1 className="text-2xl font-pop1">
+              Is anything too hard for God to Do{" "}
+              <small className="font-pop2 text-xs">Jer 32:27</small>
+            </h1>
+          </div>
