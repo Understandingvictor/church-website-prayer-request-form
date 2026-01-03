@@ -3,6 +3,21 @@
 
 @custom-variant dark (&:is(.dark *));
 
+@keyframes float {
+  0% { transform: translate(0, 0); }
+  50% { transform: translate(30px, -50px); }
+  100% { transform: translate(0, 0); }
+}
+
+.animate-float {
+  animation: float 15s ease-in-out infinite;
+}
+
+.animate-float-delayed {
+  animation: float 18s ease-in-out infinite;
+  animation-delay: 2s;
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);

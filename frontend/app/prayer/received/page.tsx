@@ -4,7 +4,7 @@ import Footer from "@/app/component/footer";
 export default function AcknowledgedPage() {
     return (
       <div className="lg:bg-gray-200 lg:flex lg:justify-center">
-        <div className="m-3 lg:bg-white lg:flex lg:flex-col lg:shadow-sm rounded-lg shadow-sm shadow-gray-400 lg:w-[90%] lg:p-3 ">
+        <div className="m-3 lg:bg-white lg:flex lg:flex-col lg:shadow-sm rounded-lg  shadow-gray-400 lg:w-[90%] lg:p-3 ">
           <div>
             <header>
               <div className="flex gap-2 mt-5">
