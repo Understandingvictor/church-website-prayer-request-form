@@ -20,9 +20,9 @@ export default function HomePage() {
         <div className="absolute top-1/4 left-1/4 w-72 h-72 bg-purple-600/20 blur-[120px] rounded-full animate-float" />
         <div className="absolute bottom-1/4 right-1/4 w-64 h-64 bg-orange-600/10 blur-[120px] rounded-full animate-float-delayed" />
 
-        <div className="relative z-10 text-center mt-2 px-6 max-w-8xl w-full flex flex-col items-center">
+        <div className="relative z-10 text-center mt-0 px-6 max-w-8xl w-full flex flex-col items-center">
           {/* Container for Badge + Logo */}
-          <div className="relative w-full mt-2 flex justify-center items-center mb-16">
+          <div className="relative w-full mt-1 flex justify-center items-center mb-16">
             {/* Centered Badge */}
             <div className="inline-flex items-center gap-3 px-5 py-2 rounded-full bg-white/5 border border-white/10 backdrop-blur-md shadow-2xl">
               <span className="w-2 h-2 rounded-full bg-orange-500 animate-ping" />
