@@ -1,4 +1,4 @@
- https://pprmenugu.vercel.app/ thissss a website for a church
+ https://pprmenugu.vercel.app/ this is a website for a church
 thisis built with next JS full stack architecture
 members can be able to submit prayer request which is the main reason why it is built.
 the prayer request can be viewed by admin in the admin dashboard
